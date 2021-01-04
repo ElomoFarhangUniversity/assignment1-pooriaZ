@@ -4,4 +4,6 @@ Student number : 991113033
 All work on assignment must be done individually unless stated
 otherwise.You are encouraged to discuss with your classmates 
 about the given assignment, but these discussions should be 
-carried out in an abstract way. 
+carried out in an abstract way. That is, discussions related to a
+particular solution to a specific problem (either in actual code or
+in the pseudocode) will not be tolerated.
