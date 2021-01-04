@@ -1,3 +1,7 @@
 Hello world !
 Pooria Zareiyan
 Student number : 991113033
+All work on assignment must be done individually unless stated
+otherwise.You are encouraged to discuss with your classmates 
+about the given assignment, but these discussions should be 
+carried out in an abstract way. 
